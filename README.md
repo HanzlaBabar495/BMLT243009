@@ -53,6 +53,25 @@ int main() {
     return 0;
 }
 
+PYTHON CODE (FOR ARTHMETHIC OPERATION)
+
+# Addition
+num1 = 10
+num2 = 5
+result = num1 + num2
+print(num1, "plus", num2, "is", result)
+
+# Subtraction
+result = num1 - num2
+print(num1, "minus", num2, "is", result)
+
+# Multiplication
+result = num1 * num2
+print(num1, "times", num2, "is", result)
+
+# Division
+result = num1 / num2
+print(num1, "divided by", num2, "is", result)
 
 
 
